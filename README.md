@@ -1,7 +1,7 @@
 # Home Network Upgrade 2021
 ### Subtitle
 
-![Image of Project](link to image)
+![Image of Project](https://github.com/wrcsubers/Other_NetworkUpgrade2021/blob/main/_Component_Shelf/Component_EdgeRouterX.HEIC)
 
 ### Status: Complete
 
